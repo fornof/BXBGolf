@@ -7,11 +7,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\TMP\xna\Golf\BEPUtut\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\cube.xnb</Output>
+      <Output>C:\Users\Robert\Documents\GitHub\BXBGolf\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\cube.xnb</Output>
       <Time>2012-11-14T10:53:23.9495498-06:00</Time>
       <Dependency>
         <Key>obj\x86\Release\cube_0.xml</Key>
-        <Value>2012-11-14T10:53:30.2329092-06:00</Value>
+        <Value>2012-11-14T23:16:31.560593-06:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -20,11 +20,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\TMP\xna\Golf\BEPUtut\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\playground.xnb</Output>
+      <Output>C:\Users\Robert\Documents\GitHub\BXBGolf\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\playground.xnb</Output>
       <Time>2012-11-02T00:14:18.6944309-05:00</Time>
       <Dependency>
         <Key>obj\x86\Release\playground_0.xml</Key>
-        <Value>2012-11-02T02:38:04.1087764-05:00</Value>
+        <Value>2012-11-14T23:16:33.134683-06:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -33,11 +33,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\TMP\xna\Golf\BEPUtut\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\cub.xnb</Output>
+      <Output>C:\Users\Robert\Documents\GitHub\BXBGolf\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\cub.xnb</Output>
       <Time>2012-11-02T01:40:46.510157-05:00</Time>
       <Dependency>
         <Key>obj\x86\Release\cub_0.xml</Key>
-        <Value>2012-11-02T02:38:04.3627909-05:00</Value>
+        <Value>2012-11-14T23:16:33.4807028-06:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -46,11 +46,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\TMP\xna\Golf\BEPUtut\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\set1.xnb</Output>
+      <Output>C:\Users\Robert\Documents\GitHub\BXBGolf\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\set1.xnb</Output>
       <Time>2012-11-02T01:53:36.7762137-05:00</Time>
       <Dependency>
         <Key>obj\x86\Release\set1_0.xml</Key>
-        <Value>2012-11-02T02:38:04.6298062-05:00</Value>
+        <Value>2012-11-14T23:16:34.0857374-06:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -59,13 +59,13 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\TMP\xna\Golf\BEPUtut\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\set2.xnb</Output>
+      <Output>C:\Users\Robert\Documents\GitHub\BXBGolf\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\set2.xnb</Output>
       <Time>2012-11-02T02:49:09.8458544-05:00</Time>
       <Dependency>
         <Key>obj\x86\Release\set2_0.xml</Key>
-        <Value>2012-11-02T02:49:19.6044125-05:00</Value>
+        <Value>2012-11-14T23:16:34.5387633-06:00</Value>
       </Dependency>
-      <Request>C:\TMP\xna\Golf\BEPUtut\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\tex_0.xnb</Request>
+      <Request>C:\Users\Robert\Documents\GitHub\BXBGolf\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\tex_0.xnb</Request>
     </Item>
     <Item>
       <Source>Textures\snowman.png</Source>
@@ -73,7 +73,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\TMP\xna\Golf\BEPUtut\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\Textures\snowman.xnb</Output>
+      <Output>C:\Users\Robert\Documents\GitHub\BXBGolf\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\Textures\snowman.xnb</Output>
       <Time>2012-11-02T01:37:28.9758587-05:00</Time>
     </Item>
     <Item>
@@ -82,7 +82,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\TMP\xna\Golf\BEPUtut\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\Textures\snowman1.xnb</Output>
+      <Output>C:\Users\Robert\Documents\GitHub\BXBGolf\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\Textures\snowman1.xnb</Output>
       <Time>2012-11-02T01:37:19.767332-05:00</Time>
     </Item>
     <Item>
@@ -91,7 +91,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\TMP\xna\Golf\BEPUtut\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\tex.xnb</Output>
+      <Output>C:\Users\Robert\Documents\GitHub\BXBGolf\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\tex.xnb</Output>
       <Time>2012-11-02T01:42:12.651084-05:00</Time>
     </Item>
     <Item>
@@ -142,7 +142,7 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\TMP\xna\Golf\BEPUtut\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\tex_0.xnb</Output>
+      <Output>C:\Users\Robert\Documents\GitHub\BXBGolf\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\tex_0.xnb</Output>
       <Time>2012-11-02T01:42:12.651084-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -151,10 +151,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Release</BuildConfiguration>
       <CompressContent>true</CompressContent>
-      <RootDirectory>C:\TMP\xna\Golf\BEPUtut\GettingStartedDemo\GettingStartedDemo\Content\</RootDirectory>
-      <LoggerRootDirectory>C:\TMP\xna\Golf\BEPUtut\GettingStartedDemo\GettingStartedDemo\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\TMP\xna\Golf\BEPUtut\GettingStartedDemo\GettingStartedDemo\Content\obj\x86\Release\</IntermediateDirectory>
-      <OutputDirectory>C:\TMP\xna\Golf\BEPUtut\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Robert\Documents\GitHub\BXBGolf\GettingStartedDemo\GettingStartedDemo\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Robert\Documents\GitHub\BXBGolf\GettingStartedDemo\GettingStartedDemo\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Robert\Documents\GitHub\BXBGolf\GettingStartedDemo\GettingStartedDemo\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Robert\Documents\GitHub\BXBGolf\GettingStartedDemo\GettingStartedDemo\bin\x86\Release\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
